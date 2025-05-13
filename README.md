@@ -25,4 +25,4 @@ Here are the languages covered in this repository:
 | Python Programming | ![Python](https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg) |
 
 ## 📊 Weekly Progress Graph
-To visualize achievements, use a **bar chart** or **line graph**. Below is an example using markdown:
+Updating Shortly
